@@ -41,6 +41,7 @@ width: 200px;
 height: 200px;
 border-radius: 100px;
   border-radius: 90%;
+<<<<<<< HEAD
 }
 
 .track-text{
@@ -49,4 +50,6 @@ border-radius: 100px;
   padding: 5px;
   position: relative;
   bottom: 25px;
+=======
+>>>>>>> 97573d9cac1c56926e0e3be532d72733d0bf451c
 }

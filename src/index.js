@@ -1,6 +1,8 @@
-/* eslint-disable no-unused-vars */
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from '/Users/SubhransuSekharSahoo/playground/src/App'
-  
-ReactDOM.render(<App></App>,document.getElementById('root'));
+import App from './Component/App';
+
+import '../src/index.css';
+
+
+ReactDOM.render(<App></App>, document.getElementById('root'));
